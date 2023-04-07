@@ -1,0 +1,14 @@
+C:\Users\aygun\source\repos\EmployeeData\EmployeData.DAL\bin\Debug\net6.0\EmployeData.DAL.deps.json
+C:\Users\aygun\source\repos\EmployeeData\EmployeData.DAL\bin\Debug\net6.0\EmployeData.DAL.runtimeconfig.json
+C:\Users\aygun\source\repos\EmployeeData\EmployeData.DAL\bin\Debug\net6.0\EmployeData.DAL.dll
+C:\Users\aygun\source\repos\EmployeeData\EmployeData.DAL\bin\Debug\net6.0\EmployeData.DAL.pdb
+C:\Users\aygun\source\repos\EmployeeData\EmployeData.DAL\obj\Debug\net6.0\EmployeData.DAL.csproj.AssemblyReference.cache
+C:\Users\aygun\source\repos\EmployeeData\EmployeData.DAL\obj\Debug\net6.0\EmployeData.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aygun\source\repos\EmployeeData\EmployeData.DAL\obj\Debug\net6.0\EmployeData.DAL.AssemblyInfoInputs.cache
+C:\Users\aygun\source\repos\EmployeeData\EmployeData.DAL\obj\Debug\net6.0\EmployeData.DAL.AssemblyInfo.cs
+C:\Users\aygun\source\repos\EmployeeData\EmployeData.DAL\obj\Debug\net6.0\EmployeData.DAL.csproj.CoreCompileInputs.cache
+C:\Users\aygun\source\repos\EmployeeData\EmployeData.DAL\obj\Debug\net6.0\EmployeData.DAL.dll
+C:\Users\aygun\source\repos\EmployeeData\EmployeData.DAL\obj\Debug\net6.0\refint\EmployeData.DAL.dll
+C:\Users\aygun\source\repos\EmployeeData\EmployeData.DAL\obj\Debug\net6.0\EmployeData.DAL.pdb
+C:\Users\aygun\source\repos\EmployeeData\EmployeData.DAL\obj\Debug\net6.0\EmployeData.DAL.genruntimeconfig.cache
+C:\Users\aygun\source\repos\EmployeeData\EmployeData.DAL\obj\Debug\net6.0\ref\EmployeData.DAL.dll
